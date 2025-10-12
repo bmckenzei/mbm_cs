@@ -115,5 +115,26 @@
         "description": "FullHDFilmizlesene_MBM.",
         "url": "https://raw.githubusercontent.com/bmckenzei/mbm_cs/builds/FullHDFilmizlesene_MBM.cs3",
         "name": "FullHDFilmizlesene_MBM"
+    },
+    {
+        "iconUrl": "https://rectvapp.com.tr/wp-content/uploads/2024/08/cropped-cropped-Screenshot_2023-08-31_at_11.02.55_PM-removebg-preview-32x32.webp",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/bmckenzei/mbm_cs",
+        "fileSize": 20787,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "MBM"
+        ],
+        "tvTypes": [
+            "Movie",
+            "Live",
+            "TvSeries"
+        ],
+        "version": 26,
+        "internalName": "RecTV_MBM",
+        "description": "RecTv_MBM",
+        "url": "https://raw.githubusercontent.com/bmckenzei/mbm_cs/builds/RecTV_MBM.cs3",
+        "name": "RecTV_MBM"
     }
 ]
