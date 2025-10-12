@@ -3,6 +3,6 @@
     "description": "Türkçe içerik",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/bmckenzei/mbm_css/master/builds/plugins.json"
+      "https://raw.githubusercontent.com/bmckenzei/mbm_cs/master/builds/plugins.json"
     ]
 }
