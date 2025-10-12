@@ -1,8 +1,0 @@
-{
-    "name": "Turkish Providers Repository",
-    "description": "Türkçe içerikli eklenti havuzu",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://raw.githubusercontent.com/bmckenzei/mbm1/master/builds/plugins.json"
-    ]
-}
