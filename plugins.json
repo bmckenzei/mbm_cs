@@ -137,6 +137,28 @@
         "name": "HDFilmCehennemi_MBM"
     },
     {
+        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/bmckenzei/mbm_cs",
+        "fileSize": 19932,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "keyiflerolsun",
+            "GitLatte",
+            "patr0nq",
+            "nikyokki"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 3,
+        "internalName": "mywayTV_MBM",
+        "description": "mywayTV_MBM",
+        "url": "https://raw.githubusercontent.com/bmckenzei/mbm_cs/builds/mywayTV_MBM.cs3",
+        "name": "mywayTV_MBM"
+    },
+    {
         "iconUrl": "https://rectvapp.com.tr/wp-content/uploads/2024/08/cropped-cropped-Screenshot_2023-08-31_at_11.02.55_PM-removebg-preview-32x32.webp",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bmckenzei/mbm_cs",
