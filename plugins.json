@@ -137,6 +137,26 @@
         "name": "HDFilmCehennemi_MBM"
     },
     {
+        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzikkanallari.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/bmckenzei/mbm_cs",
+        "fileSize": 23377,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "GitLatte",
+            "patr0nq"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 3,
+        "internalName": "MusicTvRadyo_MBM",
+        "description": "MusicTvRadyo_MBM",
+        "url": "https://raw.githubusercontent.com/bmckenzei/mbm_cs/builds/MusicTvRadyo_MBM.cs3",
+        "name": "MusicTvRadyo_MBM"
+    },
+    {
         "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/bmckenzei/mbm_cs",
