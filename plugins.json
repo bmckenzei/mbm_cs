@@ -178,26 +178,25 @@
         "url": "https://raw.githubusercontent.com/bmckenzei/mbm_cs/builds/mywayTV_MBM.cs3",
         "name": "mywayTV_MBM"
     },
-    {
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://rectvapk.cc&size=128",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "fileSize": 30990,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "Eagle",
-      "kraptor"
-    ],
-    "tvTypes": [
-      "Movie",
-      "Live",
-      "TvSeries"
-    ],
-    "version": 6,
-    "internalName": "RecTV",
-    "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/RecTV.cs3",
-    "name": "RecTV"
-  }
+     {
+        "iconUrl": "https://rectvapp.com.tr/wp-content/uploads/2024/08/cropped-cropped-Screenshot_2023-08-31_at_11.02.55_PM-removebg-preview-32x32.webp",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/bmckenzei/mbm_cs",
+        "fileSize": 20787,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "MBM"
+        ],
+        "tvTypes": [
+            "Movie",
+            "Live",
+            "TvSeries"
+        ],
+        "version": 26,
+        "internalName": "RecTV_MBM",
+        "description": "RecTv_MBM",
+        "url": "https://raw.githubusercontent.com/bmckenzei/mbm_cs/builds/RecTV_MBM.cs3",
+        "name": "RecTV_MBM"
+    }
 ]
