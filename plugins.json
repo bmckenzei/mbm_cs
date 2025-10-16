@@ -261,6 +261,25 @@
     "name": "DiziYo"
   },
     {
+        "iconUrl": "https://www.ddizi.im/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/bmckenzei/mbm_cs",
+        "fileSize": 17920,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 26,
+        "internalName": "Ddizi_MBM",
+        "description": "DDizi_MBM",
+        "url": "https://raw.githubusercontent.com/bmckenzei/mbm_cs/builds/Ddizi_MBM.cs3",
+        "name": "Ddizi_MBM"
+    },
+    {
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://rectvapk.cc&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
@@ -281,5 +300,24 @@
     "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/RecTV.cs3",
     "name": "RecTV"
-  }
+  },
+     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/bmckenzei/mbm_cs",
+        "fileSize": 20905,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 26,
+        "internalName": "WebteIzle_MBM",
+        "description": "Webteizle_MBM",
+        "url": "https://raw.githubusercontent.com/bmckenzei/mbm_cs/builds/WebteIzle_MBM.cs3",
+        "name": "WebteIzle_MBM"
+    }
 ]
